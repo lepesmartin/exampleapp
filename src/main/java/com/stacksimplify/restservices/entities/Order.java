@@ -29,7 +29,7 @@ public class Order extends ResourceSupport {
 
 	public Order() {
 		super();
-		// TODO Auto-generated constructor stub
+	
 	}
 
 	public Long getOrderid() {
